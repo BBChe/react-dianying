@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/movies/movies",
+    "pages/movies/movie-detail/movie-detail",
+    "pages/movies/more-movie/more-movie"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#314C6D"
+  }
+}
