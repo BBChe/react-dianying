@@ -66,12 +66,12 @@
     └── util.js
 ```
 ### 效果图
-![image](https://github.com/patipata/react-dianying/blob/master/screenshots/1.png)
-![image](https://github.com/patipata/react-dianying/blob/master/screenshots/2.png)
-![image](https://github.com/patipata/react-dianying/blob/master/screenshots/3.png)
-![image](https://github.com/patipata/react-dianying/blob/master/screenshots/5.png)
+![image](screenshots/1.png)
+![image](screenshots/2.png)
+![image](screenshots/3.png)
+![image](screenshots/5.png)
 ### 快速体验，可通过微信扫描下面二维码（二维码为线上版本，可能与github不一致）
-![image](https://github.com/patipata/react-dianying/blob/master/screenshots/4.png)
+![image](screenshots/4.png)
 ### 功能说明
 接口访问来自豆瓣api,目前功能有
 搜索功能
